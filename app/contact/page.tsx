@@ -50,7 +50,7 @@ export default function ContactPage() {
                     <span className="font-medium text-[#222521] block mb-0.5">
                       Direct Inquiries
                     </span>
-                    <span>care@lumaessentials.com</span>
+                    <span>care@nuveessentials.com</span>
                   </div>
                 </div>
 
@@ -70,7 +70,7 @@ export default function ContactPage() {
                     <span className="font-medium text-[#222521] block mb-0.5">
                       Design Studio
                     </span>
-                    <span>Luma Collective, Skeppargatan 24, Stockholm</span>
+                    <span>NUVÉ Collective, Skeppargatan 24, Stockholm</span>
                   </div>
                 </div>
               </div>

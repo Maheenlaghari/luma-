@@ -1,8 +1,8 @@
-# Luma
+# NUVÉ
 
 **Natural living, made simple.**
 
-Luma is a calm, editorial ecommerce storefront for sustainable everyday essentials. It is built with the Next.js App Router and ships a complete shopping experience: browsing, product detail, cart, checkout, account and a journal, all backed by a REST style API layer that is ready to swap onto a real backend.
+NUVÉ is a calm, editorial ecommerce storefront for sustainable everyday essentials. It is built with the Next.js App Router and ships a complete shopping experience: browsing, product detail, cart, checkout, account and a journal, all backed by a REST style API layer that is ready to swap onto a real backend.
 
 ## Highlights
 

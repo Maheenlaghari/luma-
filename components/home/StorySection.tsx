@@ -18,7 +18,7 @@ export default function StorySection() {
         </h2>
 
         <p className="text-xs sm:text-sm text-[#545b4e] font-light leading-relaxed max-w-sm">
-          We started Luma with a simple belief that everyday essentials can be kinder to your home, your body and the planet.
+          We started NUVÉ with a simple belief that everyday essentials can be kinder to your home, your body and the planet.
         </p>
 
         <div className="pt-2">
@@ -35,7 +35,7 @@ export default function StorySection() {
       <div className="relative w-full min-h-[380px] lg:h-full">
         <Image
           src="/assets/sec-2.jpe"
-          alt="Luma organic canvas tote bag hanging on wooden chair with green plant"
+          alt="NUVÉ organic canvas tote bag hanging on wooden chair with green plant"
           fill
           priority
           quality={100}

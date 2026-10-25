@@ -13,7 +13,7 @@ export default function Footer() {
               href="/"
               className="font-outfit text-2xl sm:text-3xl tracking-[0.06em] font-light text-[#222521] inline-block"
             >
-              luma
+              NUVÉ
             </Link>
             <p className="text-xs text-[#6f736a] max-w-sm leading-relaxed">
               Thoughtfully designed everyday essentials created to bring quiet balance and conscious simplicity to your daily rituals.
@@ -76,7 +76,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="mailto:care@lumaessentials.com"
+              href="mailto:care@nuveessentials.com"
               aria-label="Email support"
               className="p-2 rounded-full bg-[#eee9de] hover:bg-[#e2ddd0] hover:text-[#222521] transition-colors"
             >
@@ -108,7 +108,7 @@ export default function Footer() {
           </div>
 
           <div className="flex flex-col sm:flex-row items-center gap-3 text-center sm:text-right">
-            <span>© 2025 Luma. All rights reserved.</span>
+            <span>© 2025 NUVÉ. All rights reserved.</span>
             <span className="hidden sm:inline text-[#ccc6b8]">|</span>
             <span className="font-outfit italic text-[#555a50]">
               A kinder home. A healthier planet.

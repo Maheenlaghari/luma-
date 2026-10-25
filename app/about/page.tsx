@@ -15,7 +15,7 @@ export default function AboutPage() {
             We believe everyday objects hold the power to shape quiet calm.
           </h1>
           <p className="text-base text-[#5d6356] font-light max-w-2xl mx-auto leading-relaxed">
-            Luma was created from a personal search for simplicity. In a world full of clutter and disposable objects, we choose to pause, pare back and craft timeless essentials that respect your body and our collective planet.
+            NUVÉ was created from a personal search for simplicity. In a world full of clutter and disposable objects, we choose to pause, pare back and craft timeless essentials that respect your body and our collective planet.
           </p>
         </div>
       </section>

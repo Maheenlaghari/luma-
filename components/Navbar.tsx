@@ -29,7 +29,7 @@ export default function Navbar() {
             href="/"
             className="font-outfit text-3xl sm:text-4xl tracking-[0.06em] font-light text-[#232320] hover:opacity-80 transition-opacity"
           >
-            luma
+            NUVÉ
           </Link>
         </div>
 
@@ -146,7 +146,7 @@ export default function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
             className="block text-base tracking-wide text-[#222521] py-2"
           >
-            About Luma
+            About NUVÉ
           </Link>
           <Link
             href="/journal"

@@ -10,7 +10,7 @@ export default function JournalPage() {
       <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12">
         <div className="text-center max-w-2xl mx-auto mb-16 space-y-4">
           <span className="text-xs uppercase tracking-[0.25em] font-semibold text-[#6a7063]">
-            The Luma Journal
+            The NUVÉ Journal
           </span>
           <h1 className="font-outfit font-light text-4xl sm:text-6xl text-[#222521]">
             Quiet musings on slow living

@@ -29,7 +29,7 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Luma | Natural Living Made Simple",
+  title: "NUVÉ | Natural Living Made Simple",
   description: "Thoughtfully designed essentials for your everyday rituals. Kinder to your home, your body and the planet."
 };
 
